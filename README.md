@@ -1,14 +1,16 @@
-# My DevOps Lab
+## Current Goal
 
-This repository contains my Cloud DevOps learning projects.
+Become a Cloud DevOps Engineer.
 
-## Skills
+## Learning Path
 
-- Git
-- GitHub
-- Linux
-- CI/CD
-- Docker
-- Cloud
-- Terraform
-- Kubernetes
+1. Git & GitHub
+2. Linux & Bash
+3. CI/CD
+4. Docker
+5. Cloud
+6. Terraform
+7. Ansible
+8. Kubernetes
+9. Monitoring
+10. DevSecOps
